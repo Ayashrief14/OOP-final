@@ -79,6 +79,8 @@ fun main() {
 
         } else if (userChoice == 7) {
             classroom.listCourses()
+        }else if (userChoice !=8){
+            println(" please check that the number you added")
         }
             //        ------------------------------------------
 
